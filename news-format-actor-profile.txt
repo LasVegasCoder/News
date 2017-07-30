@@ -1,0 +1,60 @@
+Marnie Madden, Local Cochrane Producer
+
+[box bg="#" color="#" border="#" radius="5"]
+[animate animation="tada" duration="1" delay="0" iteration="0"]
+
+<img src="http://www.vegasnewspaper.com/wp-content/uploads/2017/04/Jack-Wagon-Jack-Wagon.jpg" />
+[/animate]
+[quote font_size="40" bgcolor="#" color="#" bcolor="#" arrow="yes"][animate animation="fadeInRightBig" duration="1" delay="0" iteration="0"]
+
+"If you follow the steps it will happen. It's happened for me. It's about writing your goals down. It's only a dream when you don't write them down, as soon as you write them down it becomes reality."
+
+[/animate]
+[/quote]
+[/box]
+
+
+[divide icon="square" icon_position="left" margin_top="20" margin_bottom="15" width="long"]
+
+[animate animation="rollIn" duration="1" delay="0" iteration="0"][dropcap font="Arial"]J[/dropcap][/animate]
+Marnie Madden was born and raised in the Calgary area. Her family has a long history in the entertainment business, primarily in the fields of music, business and horseman ship. [highlight bgcolor="#f2db19" txtcolor="#000"]Marnie has worked on a number of movies in a variety of genres over the years. She began her career with roles in background before securing more substantial roles in commercials, TV shows and motion pictures.[/highlight]
+
+[divide icon="square" icon_position="left" margin_top="15" margin_bottom="15" width="long"]
+
+[one_half][box  radius="5"]
+After serving what could be termed her apprenticeship, in 2014 Marnie acted in and produced the TV series Off Screen, Mother Earth, Once upon a Date, Tail Gate Cooking and The Cougars Cooking Show. Some bigger productions she has worked on are Heartland, Wynonna Earp, Tin Star and Dead again in Tombstone.
+
+
+[/box][/one_half]  [one_half_last][box  radius="5"] 
+[animate animation="tada" duration="1" delay="0" iteration="0"]
+
+<img src="http://www.vegasnewspaper.com/wp-content/uploads/2017/04/Jack-Wagon-Portrait.jpg" width="350" height="600" />
+[/animate]
+[quote font_size="30" bgcolor="#" color="#" bcolor="#" arrow="yes"][animate animation="fadeInLeftBig" duration="1" delay="0" iteration="0"]
+
+Jack gravitates toward the Western genre as a tribute to his Grandfather
+
+[/animate]
+[/quote]
+[/box][/one_half_last]
+
+
+[highlight bgcolor="#f2db19" txtcolor="#000"]During the 2014 and 2015 seasons, Jack performed with the ensemble cast of the "Virginia City Outlaws" Wild West outdoor live theater show. [/highlight]The "Outlaws" perform several shows daily, from May to October, in Virginia City, Nevada.
+
+
+[box radius="5"][youtube videoid="k_LSU-Wnzxw" width="640" ] 
+<em style="text-align:center">Click to watch Jack Waggon talks about TV series, "BIG SKY"</em>[/box]
+Jack is married, a motorcycle rider and outdoorsman; he enjoys collecting firearms, hiking and camping.
+
+
+[divide icon="square" icon_position="left" margin_top="20" margin_bottom="15" width="long"]
+
+[one_half] [box type="tip" bg="#" color="#" border="#" radius="5"] 
+For booking visit [button color="green2" bgcolor="#" hoverbg="#" textcolor="#" texthcolor="#" bordercolor="#" hoverborder="#" link="http://www.imdb.com/name/nm6772051/?ref_=nmbio_bio_nm" target="_blank" radius="5" outer_border="false" outer_border_color="#" icon_color="#"]IMDb[/button][/box][/one_half] 
+[one_half_last][box type="tip" bg="#" color="#" border="#" radius="5"] 
+Follow Jack Waggon on [button color="green2" bgcolor="#4267b2" hoverbg="#" textcolor="#FFFFFF" texthcolor="#FFFFFF" bordercolor="#" hoverborder="#" link="https://www.facebook.com/profile.php?id=100008408806797&fref=ufi&rc=p&d=vegasnewspaper.com" target="_blank" radius="5" outer_border="false" outer_border_color="#" icon_color="#"]Facebook[/button]
+[/box][/one_half_last]
+
+[divide icon="square" icon_position="left" margin_top="20" margin_bottom="15" width="long"]
+
+[two_third][box width="420" radius="5"]</p><h2>Thanks for liking & Sharing!</h2><p>[highlight bgcolor="#f2db19" txtcolor="#000"]Follow us on Facebook, Your Biography/Story Could Be Next[/highlight]</p><p>[facebook https://www.facebook.com/VegasNewspaperCom social_plugin=true width=410 posts=5 theme=default ][/box] [gap height="30"]</p><p>[/two_third]</p><p>&nbsp;</p>
